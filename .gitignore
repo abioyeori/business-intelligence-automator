@@ -1,0 +1,8 @@
+# System files
+.DS_Store
+
+# Ignore all results in the output folder
+output/
+
+# Ignore temporary Excel files (the ones that appear when a file is open)
+~$*.xlsx
