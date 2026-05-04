@@ -1,7 +1,7 @@
 """
 Automated Weekly Sales Reporter
 
-Processes daily Excel workbooks in the 'Sales/' directory to generate 
+Processes daily Excel workbooks in the 'output/' directory to generate 
 a 'week_summary' sheet featuring KPIs, item totals, and a comparative 
 daily layout.
 """
